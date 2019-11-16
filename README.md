@@ -1,4 +1,4 @@
 AppleBacklightFixup
 ===================
 
-RehabMan has taken over this project. Please use [his fork](https://bitbucket.org/RehabMan/applebacklightfixup.git) instead.
+AppleBacklightFixup is now part of [WhateverGreen](https://github.com/acidanthera/WhateverGreen). Please use it instead.
